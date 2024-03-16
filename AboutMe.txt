@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=qylGaki0JhY&ab_channel=TomDoesTech
+***************************************************************************
+
+Build an Authentication API with Node.js, TypeScript, Typegoose, ExpressJS & Zod
